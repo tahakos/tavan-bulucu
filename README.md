@@ -1,1 +1,5 @@
-# tavan-bulucu
+## Tavan Bulucu
+
+Streamlit ile çalışır.
+
+`streamlit run app.py`
